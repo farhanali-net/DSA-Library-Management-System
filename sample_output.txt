@@ -1,0 +1,53 @@
+--- Library Management System ---
+1. Add Book
+2. Remove Book
+3. Search Book
+4. Display All Books
+5. Check Out/Return Book
+0. Exit
+Enter choice: 1
+Enter title: The Alchemist
+Enter author: Paulo Coelho
+Enter ISBN: 9780061122415
+Book added successfully!
+
+Enter choice: 1
+Enter title: Clean Code
+Enter author: Robert C. Martin
+Enter ISBN: 9780132350884
+Book added successfully!
+
+Enter choice: 4
+Title: The Alchemist
+Author: Paulo Coelho
+ISBN: 9780061122415
+Available: Yes
+
+Title: Clean Code
+Author: Robert C. Martin
+ISBN: 9780132350884
+Available: Yes
+
+Enter choice: 3
+Enter title or author to search: Robert
+Title: Clean Code
+Author: Robert C. Martin
+ISBN: 9780132350884
+Available: Yes
+
+Enter choice: 5
+Enter ISBN to check out/return: 9780061122415
+Book status updated to: Borrowed
+
+Enter choice: 2
+Enter ISBN to remove: 9780132350884
+Book removed successfully!
+
+Enter choice: 4
+Title: The Alchemist
+Author: Paulo Coelho
+ISBN: 9780061122415
+Available: No
+
+Enter choice: 0
+Exiting system.
