@@ -9,7 +9,7 @@ The project demonstrates how a **singly linked list** can be used to build a sim
 - Remove a book using its ISBN
 - Search books by title or author
 - Display all books
-- Check out or return a book
+- Check out or return a book 
 - Interactive console-based menu
 
 ## Data Structure Used
