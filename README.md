@@ -3,7 +3,7 @@
 A beginner-friendly **Data Structures and Algorithms (DSA)** project written in C++.  
 The project demonstrates how a **singly linked list** can be used to build a simple Library Management System.
 
-## Features
+## Features. 
 
 - Add a new book
 - Remove a book using its ISBN
