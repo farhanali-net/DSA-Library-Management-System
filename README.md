@@ -12,7 +12,7 @@ The project demonstrates how a **singly linked list** can be used to build a sim
 - Check out or return a book 
 - Interactive console-based menu
 
-## Data Structure Used
+## Data Structure Used 
 
 ### Singly Linked List
 
