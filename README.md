@@ -13,7 +13,7 @@ The project demonstrates how a **singly linked list** can be used to build a sim
 - Interactive console-based menu
 
 ## Data Structure Used
- 
+
 ### Singly Linked List
 
 Each book is stored in a `Book` node containing:
