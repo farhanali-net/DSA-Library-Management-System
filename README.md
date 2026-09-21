@@ -11,7 +11,7 @@ The project demonstrates how a **singly linked list** can be used to build a sim
 - Display all books
 - Check out or return a book 
 - Interactive console-based menu
-
+ 
 ## Data Structure Used
 
 ### Singly Linked List
