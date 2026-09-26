@@ -4,7 +4,7 @@ A beginner-friendly **Data Structures and Algorithms (DSA)** project written in 
 The project demonstrates how a **singly linked list** can be used to build a simple Library Management System.
 
 ## Features
-   
+  
 - Add a new book
 - Remove a book using its ISBN
 - Search books by title or author
