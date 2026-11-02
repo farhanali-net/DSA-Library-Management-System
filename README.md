@@ -5,7 +5,7 @@ The project demonstrates how a **singly linked list** can be used to build a sim
 
 ## Features
 
-- Add a new book 
+- Add a new book
 - Remove a book using its ISBN
 - Search books by title or author
 - Display all books     
