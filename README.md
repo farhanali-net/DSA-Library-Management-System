@@ -15,7 +15,7 @@ The project demonstrates how a **singly linked list** can be used to build a sim
 ## Data Structure Used
 
 ### Singly Linked List
-
+   
 Each book is stored in a `Book` node containing:
 
 - `title`
